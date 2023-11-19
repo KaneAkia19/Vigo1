@@ -1,0 +1,21 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@200&family=Oswald:wght@300&display=swap');
+
+body{
+    background-color: black;
+}
+header{
+    font-family: 'Josefin Sans', sans-serif;
+    text-align: center;
+    color: white;
+    padding: 55px;
+}
+h1{
+    font-size: 50px;
+}
+p{
+    font-size: 19px;
+}
+dl#first{
+    padding: 20px;
+}
